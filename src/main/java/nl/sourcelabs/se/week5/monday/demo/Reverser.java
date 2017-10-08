@@ -1,4 +1,4 @@
-package nl.sourcelabs.se.week5.monday.assignment1;
+package nl.sourcelabs.se.week5.monday.demo;
 
 /**
  * Assignment: Test this class. Define test cases and test if everything works as expected.

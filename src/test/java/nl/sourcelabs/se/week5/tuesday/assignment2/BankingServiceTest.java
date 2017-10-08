@@ -1,6 +1,4 @@
-package nl.sourcelabs.se.week5.tueday.assignment1;
-
-import static org.junit.Assert.*;
+package nl.sourcelabs.se.week5.tuesday.assignment2;
 
 /**
  * @author Jarno Walgemoed (Sourcelabs.nl)

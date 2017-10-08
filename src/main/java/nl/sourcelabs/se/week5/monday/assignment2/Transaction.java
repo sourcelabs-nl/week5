@@ -1,4 +1,4 @@
-package nl.sourcelabs.se.week5.monday.assignment3;
+package nl.sourcelabs.se.week5.monday.assignment2;
 
 public class Transaction {
     

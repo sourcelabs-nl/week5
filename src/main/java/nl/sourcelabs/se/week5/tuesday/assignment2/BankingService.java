@@ -1,4 +1,4 @@
-package nl.sourcelabs.se.week5.tueday.assignment1;
+package nl.sourcelabs.se.week5.tuesday.assignment2;
 
 import java.sql.SQLException;
 
