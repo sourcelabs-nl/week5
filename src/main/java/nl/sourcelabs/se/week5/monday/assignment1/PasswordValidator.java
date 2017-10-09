@@ -10,11 +10,11 @@ public class PasswordValidator {
 
     /**
      * Password regular expression
-     * - At least 1 number;
-     * - At least 1 uppercase character;
-     * - At least 1 lowercase character;
+     * - At least 1 number
+     * - At least 1 uppercase character
+     * - At least 1 lowercase character
      * - At least 1 special character in this range: @, #, $, %, ^, &, +, =
-     * - At least 8 characters long;
+     * - At least 8 characters long
      * - Maximum of 20 characters
      */
     private static final String passwordRegex = "^(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[@#$%^&+=])[^\\s]{8,20}$";
